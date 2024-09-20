@@ -1,7 +1,7 @@
 
 # Vehicle Parking Control System
 
-The Vehicle Parking Control System is a mini-project developed for a college assignment. It features a user interface where administrators and operators can log in to manage parking operations. The system keeps records of incoming and outgoing vehicles (cars and bikes) and generates bills for the parking duration. Additionally, there is a manager option that allows managing admins, adjusting prices, modifying parking slots, and overseeing other system settings. This system is designed to optimize parking space management for locations like apartments, schools, colleges, and public parking areas.
+The Vehicle Parking Control System is a mini-project developed for a college project. It features a user interface where administrators/operators can log in to manage parking operations. The system keeps records of incoming and outgoing vehicles (cars and bikes) and generates bills for the parking duration. Additionally, there is a manager option that allows managing admins, adjusting prices, modifying parking slots, and overseeing other system settings. This system is designed to optimize parking space management for locations like apartments, schools, colleges, and public parking areas.
 
 
 ## Acknowledgements
@@ -25,7 +25,7 @@ The Vehicle Parking Control System is a mini-project developed for a college ass
 - User Interface
 - Admin/Operator Login
 - Vehicle Records Management
-- Billing System
+- Generates Bill
 - Manager/Owner Control(Add or remove admins,Modify parking prices,Adjust available parking slots,Update other system settings)
 - Versatile Application
 
